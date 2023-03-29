@@ -1,4 +1,4 @@
-I made this to learn TypeScript fundamentals, and write in NVIM.
+I made this to learn TypeScript fundamentals, and wrote in NVIM.
 
 https://auth0.com/blog/node-js-and-typescript-tutorial-build-a-crud-api/
 
